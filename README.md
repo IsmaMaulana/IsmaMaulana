@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isma Maulana! <br/><a ,href="https://github.com/IsmaMaulana">Engineer</a> <a href="https://www.linkedin.com/in/ismamaulana/">Fresh Graduate</a>
+<h1>Hi, I'm Isma Maulana! <br/><a href="https://github.com/IsmaMaulana">Engineer</a>, <a href="https://www.linkedin.com/in/ismamaulana/">Fresh Graduate</a>
 
 <h2>👨‍💻Key Project:</h2>
 
