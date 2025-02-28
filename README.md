@@ -5,7 +5,7 @@
 - <b>Diagnostic Coupling Missalignment With Machine Learning Model (MATLAB)</b>
   - [K-Nearest Neighbour Algorithm](https://github.com/IsmaMaulana/Diagnostic-Coupling-Missalignment-With-Machine-Learning-Model-MATLAB-)
 - <b>Aeroflow Brake Cooler</b>
-  - [Overview Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Research and Development)</b></i>
+  - [Overview Project](https://github.com/IsmaMaulana/Aeroflow-Brake-Cooler/blob/main/README.md) <b><i>(Research and Development)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
