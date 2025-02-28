@@ -3,9 +3,9 @@
 <h2>👨‍💻Key Project:</h2>
 
 - <b>Diagnostic Coupling Missalignment With Machine Learning Model (MATLAB)</b>
-  - [Praciting DS & Algos in Python]([https://github.com/IsmaMaulana/Diagnostic-Coupling-Missalignment-With-Machine-Learning-Model-MATLAB-])
+  - [K-Nearest Neighbour Algorithm](https://github.com/IsmaMaulana/Diagnostic-Coupling-Missalignment-With-Machine-Learning-Model-MATLAB-)
 - <b>Aeroflow Brake Cooler</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Research and Development)</b></i>
+  - [Overview Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Research and Development)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
 
