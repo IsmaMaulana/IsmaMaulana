@@ -4,8 +4,8 @@
 
 - <b>Diagnostic Coupling Missalignment With Machine Learning Model (MATLAB)</b>
   - [K-Nearest Neighbour Algorithm](https://github.com/IsmaMaulana/Diagnostic-Coupling-Missalignment-With-Machine-Learning-Model-MATLAB-)
-- <b>Diagnostic Bearings</b>
-  - [Overview Project](https://github.com/IsmaMaulana/Aeroflow-Brake-Cooler/blob/main/README.md) <b><i>(Research and Development)</b></i>
+- <b>Diagnostic Bearings HUST bearing: a practical dataset for ball bearing fault diagnosis</b>
+  - [Decision Tree](https://github.com/IsmaMaulana/Aeroflow-Brake-Cooler/blob/main/README.md) <b><i>(Research and Development)</b></i>
 - <b>Aeroflow Brake Cooler</b>
   - [Overview Project](https://github.com/IsmaMaulana/Aeroflow-Brake-Cooler/blob/main/README.md) <b><i>(Research and Development)</b></i>
 
