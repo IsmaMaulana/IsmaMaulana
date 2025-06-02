@@ -7,6 +7,7 @@
 - <b>Diagnostic Bearings HUST bearing: a practical dataset for ball bearing fault diagnosis</b>
   - [Decision Tree](https://github.com/IsmaMaulana/Bearing-Analysis) <b>
   - [Support Vector Machine](https://github.com/IsmaMaulana/Bearing-Analysis-SVM) <b>
+  - [K-Nearest Neighbour](https://github.com/IsmaMaulana/Bearing-Analysis-SVM) <b>
 - <b>Aeroflow Brake Cooler</b>
   - [Overview Project](https://github.com/IsmaMaulana/Aeroflow-Brake-Cooler/blob/main/README.md) <b><i>(Research and Development)</b></i>
 
